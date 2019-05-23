@@ -1,0 +1,17 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo for distributed Transaction Management",
+  "main": "worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "neelesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0",
+    "mongodb": "^3.2.5",
+    "mongoose": "^5.5.10",
+    "node-ipc": "^9.1.1"
+  }
+}
